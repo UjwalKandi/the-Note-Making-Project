@@ -1,9 +1,9 @@
 # Note-Making-Project
 
-Implemented Optical Character Recognition using MATLAB as part of the Note Making Project
+Implemented Optical Character Recognition using MATLAB as part of the Note Making Project.
 
 <p align="center">
-  <img src="https://github.com/UjwalKandi/Note-Making-Project/blob/main/img/output.jpg">
+  <img src="https://github.com/UjwalKandi/Note-Making-Project/blob/main/img/output.jpg" style='height: 40%; width: 95%; object-fit: contain'/>
 </p>
 
 ``` python
@@ -15,7 +15,7 @@ Implemented Optical Character Recognition using MATLAB as part of the Note Makin
 ```  
 <br/>
 <p align="center">
-  <img src="https://github.com/UjwalKandi/Note-Making-Project/blob/main/img/caution.jpg">
+  <img src="https://github.com/UjwalKandi/Note-Making-Project/blob/main/img/caution.jpg" style='height: 35%; width: 35%; object-fit: contain'/>
 </p>
     
 ``` python
@@ -47,7 +47,7 @@ Implemented Optical Character Recognition using MATLAB as part of the Note Makin
 ```  
 <br/>
 <p align="center">
-  <img src="https://github.com/UjwalKandi/Note-Making-Project/blob/main/img/caution.png">
+  <img src="https://github.com/UjwalKandi/Note-Making-Project/blob/main/img/caution.png" style='height: 40%; width: 39%; object-fit: contain'/>
 </p>
 
 ``` python
@@ -62,7 +62,7 @@ Implemented Optical Character Recognition using MATLAB as part of the Note Makin
 ```  
 <br/>
 <p align="center">
-  <img src="https://github.com/UjwalKandi/Note-Making-Project/blob/main/img/caution.gif">
+  <img src="https://github.com/UjwalKandi/Note-Making-Project/blob/main/img/caution.gif" style='height: 40%; width: 40%; object-fit: contain'/>
 </p>
 
 
