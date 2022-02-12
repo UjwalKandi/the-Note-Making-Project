@@ -4,22 +4,22 @@ figure(1)
 imshow(Inputimage);
 title('INPUT IMAGE WITH NOISE')
 
-%% Convert to gray scale
+% Convert to gray scale
 if size(Inputimage,3)==3 % RGB image
 Inputimage=rgb2gray(Inputimage);
 end
 
-%% Convert to binary image
+% Convert to binary image
 threshold = graythresh(Inputimage);
 Inputimage =~im2bw(Inputimage,threshold);
 
 
-%% Remove all object containing fewer than 30 pixels
+% Remove all object containing fewer than 30 pixels
 Inputimage = bwareaopen(Inputimage,30);
 pause(1);
 
 
-%% Label connected components
+% Label connected components
 [L Ne]=bwlabel(Inputimage);
 propied=regionprops(L,'BoundingBox');
 imshow(~Inputimage);
@@ -31,7 +31,7 @@ hold off
 pause (1);
 
 
-%% Objects extraction
+% Objects extraction
 figure
 for n=1:Ne
 [r,c] = find(L==n);
