@@ -1,4 +1,4 @@
-# The-Note-Making-Project
+# the-Note-Making-Project
 
 Implemented Optical Character Recognition using MATLAB as part of the Note Making Project.
 
