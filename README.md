@@ -1,7 +1,6 @@
 # the-Note-Making-Project
 
-Implemented Optical Character Recognition using MATLAB as part of the Note Making Project.
-
+Implemented OCR algorithm without using any predefined functions or libraries to recognize and highlight characters from images.
 <p align="center">
   <img src="https://github.com/UjwalKandi/Note-Making-Project/blob/main/img/output.jpg" style='height: 40%; width: 95%; object-fit: contain'/>
 </p>
